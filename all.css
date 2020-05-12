@@ -1,0 +1,31 @@
+.title {
+	display: block;
+	width: 300px;
+	height: 200px;
+	margin: 5px 10px 15px 15px;
+	padding: 10px 15px 10px 15px;
+	border-color: green;
+	border-style: solid dashed none dashed;
+	border-width: 5px;
+}
+.metla {
+	width: 900px;
+	height: 800px;
+	background: linear-gradient(90deg, #9b9faa, #d7d2cc);
+	text-align: left;
+	padding: 30px 50px
+}
+body {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+.logo {
+	float: left;
+	margin: 20px;
+}
+.img-right {
+	float: right;
+	margin: 20px;
+	box-shadow: 5px 5px 5px #84868f, 10px 10px 10px #bdbfcc;
+}
